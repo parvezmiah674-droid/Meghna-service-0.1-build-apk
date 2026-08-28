@@ -1,0 +1,7 @@
+{
+  "name": "Meghna Service",
+  "description": "Local technician and home repair service directory with chat and payment features for Meghna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
